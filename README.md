@@ -1,5 +1,7 @@
 # Ex03 To-Do List using JavaScript
-## Date:
+# Name : KARTHIK G.
+# Reg No : 212223220043
+## Date:27.02.2026
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
